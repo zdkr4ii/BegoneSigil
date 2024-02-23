@@ -20,7 +20,7 @@ Brightness: 5/10\
 Blur: Off\
 Colorblind Support: Off
 
-You may need to change the variable "spamtime" in line 13, 
+You may need to change the variable "spamtime" in line 13 in the .ahk file, 
 depending on how long it usually takes for you to spend approx 999 vouchers (in milliseconds)
 
 ## Notes
