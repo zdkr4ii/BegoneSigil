@@ -2,6 +2,8 @@
 An AHK script to sell my useless sigils and trade the vouchers back for more sigils, made for Granblue Fantasy: Relink.\
 Script automatically stops when there are no more valid sigils to sell/trade (supposedly)
 
+![ins0](https://github.com/zdkr4ii/BegoneSigil/assets/81848196/78072785-a0b3-4b83-9934-09ab61bea7b1)
+
 ## Preparations
 Head to Siero > "Transmute Sigils" > Make sure you have "Level 3" Highlighted\
 Go back and Select "Trade Sigils" from "Knickknack vouchers" > Press Tab to open up the Sort page\
