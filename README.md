@@ -1,9 +1,6 @@
 # BegoneSigil
 An AHK script to sell my useless sigils and trade the vouchers back for more sigils, made for Granblue Fantasy: Relink.\
-Author: dak
-
-A script to automatically sell low level sigils and trade the vouchers back for more sigils.
-Script automatically stops when there are no more valid sigils to sell/trade
+Script automatically stops when there are no more valid sigils to sell/trade (supposedly)
 
 ## Preparations
 Head to Siero > "Transmute Sigils" > Make sure you have "Level 3" Highlighted\
